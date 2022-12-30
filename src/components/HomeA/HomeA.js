@@ -13,7 +13,7 @@ const HomeA = () => {
           <h2>Hi! This is Cyril.</h2>
           <h2>I'm a newbie Front-end engineer.</h2>
         </div>
-        <a className="scrollDown" href="/#about">
+        <a className="scrollDown" href="#about">
           <div class="chevron"></div>
           <div class="chevron"></div>
           <div class="chevron"></div>
