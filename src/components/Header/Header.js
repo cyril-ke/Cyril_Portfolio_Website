@@ -6,25 +6,25 @@ const Header = () => {
     <div>
       <header className="header">
         <nav className="nav container">
-          <a className="nav_logo" href="./index.html">
+          <a className="nav_logo" href="index.html">
             Cyril's Portfolio Website
           </a>
           <div className="nav_menu">
             <ul className="item_list">
               <li className="item">
-                <a href="/#home">Home</a>
+                <a href="#home">Home</a>
               </li>
               <li className="item">
-                <a href="/#about">About</a>
+                <a href="#about">About</a>
               </li>
               <li className="item">
-                <a href="/#skill">Skills</a>
+                <a href="#skill">Skills</a>
               </li>
               <li className="item">
                 <a href="/#portfolio">Portfolio</a>
               </li>
               <li className="item">
-                <a href="/#contact">Contact</a>
+                <a href="#contact">Contact</a>
               </li>
             </ul>
           </div>
