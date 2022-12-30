@@ -21,7 +21,7 @@ const Header = () => {
                 <a href="#skill">Skills</a>
               </li>
               <li className="item">
-                <a href="/#portfolio">Portfolio</a>
+                <a href="#portfolio">Portfolio</a>
               </li>
               <li className="item">
                 <a href="#contact">Contact</a>
