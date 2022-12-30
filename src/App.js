@@ -1,6 +1,6 @@
 import './App.scss';
 import Header from './components/Header/Header';
-import HomeA from './components/HomeA';
+import HomeA from './components/Home';
 import About from './components/About';
 import Skill from './components/Skill';
 import Portfolio from './components/Portfolio';

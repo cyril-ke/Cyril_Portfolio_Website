@@ -1,15 +1,15 @@
 import React from 'react';
-import './_HomeA.scss';
+import './_home.scss';
 import avatar from '../../images/avatar.png';
 
-const HomeA = () => {
+const home = () => {
   return (
-    <div className="homeA_section" id="home">
+    <div className="home_section" id="home">
       <div className="container grid">
-        <div className="homeA_avatar_box">
-          <img className="homeA_avatar" src={avatar} alt="" />
+        <div className="home_avatar_box">
+          <img className="home_avatar" src={avatar} alt="" />
         </div>
-        <div className="homeA_description">
+        <div className="home_description">
           <h2>Hi! This is Cyril.</h2>
           <h2>I'm a newbie Front-end engineer.</h2>
         </div>
@@ -26,4 +26,4 @@ const HomeA = () => {
     </div>
   );
 };
-export default HomeA;
+export default home;
