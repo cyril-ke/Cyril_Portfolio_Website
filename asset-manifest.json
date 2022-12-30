@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cyril_Portfolio_Website/static/css/main.d1d82996.css",
-    "main.js": "/Cyril_Portfolio_Website/static/js/main.7fcf9a53.js",
+    "main.js": "/Cyril_Portfolio_Website/static/js/main.9eab10e4.js",
     "static/js/787.bbe01249.chunk.js": "/Cyril_Portfolio_Website/static/js/787.bbe01249.chunk.js",
     "static/media/ohdocatFinal.png": "/Cyril_Portfolio_Website/static/media/ohdocatFinal.739054fd1a3fbd2f19d0.png",
     "static/media/ohdogcatMid.png": "/Cyril_Portfolio_Website/static/media/ohdogcatMid.69aca25966bc15e84a36.png",
@@ -10,11 +10,11 @@
     "static/media/avatar.png": "/Cyril_Portfolio_Website/static/media/avatar.59b4ce14c1b40f714b3f.png",
     "index.html": "/Cyril_Portfolio_Website/index.html",
     "main.d1d82996.css.map": "/Cyril_Portfolio_Website/static/css/main.d1d82996.css.map",
-    "main.7fcf9a53.js.map": "/Cyril_Portfolio_Website/static/js/main.7fcf9a53.js.map",
+    "main.9eab10e4.js.map": "/Cyril_Portfolio_Website/static/js/main.9eab10e4.js.map",
     "787.bbe01249.chunk.js.map": "/Cyril_Portfolio_Website/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d82996.css",
-    "static/js/main.7fcf9a53.js"
+    "static/js/main.9eab10e4.js"
   ]
 }
