@@ -1,0 +1,36 @@
+.contact_section {
+  background-color: #fbfff7;
+  padding: 6rem 0 2rem;
+
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 968px;
+  }
+  .contact_title {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 2rem;
+  }
+  .contact_list {
+    display: flex;
+    justify-content: space-around;
+  }
+  .contact_card {
+    border: 1px solid #9fb18f;
+    border-radius: 8px;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 30px;
+    background-color: #f5fbef;
+  }
+  .contact_card_icon {
+    width: 24px;
+    height: 24px;
+    margin-bottom: 5px;
+  }
+  .contact_card_content {
+    text-decoration: none;
+  }
+}
