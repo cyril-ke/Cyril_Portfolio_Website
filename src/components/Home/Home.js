@@ -1,5 +1,5 @@
 import React from 'react';
-import './_home.scss';
+import './_Home.scss';
 import avatar from '../../images/avatar.png';
 
 const home = () => {
