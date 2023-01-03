@@ -51,7 +51,7 @@ const Skill = () => {
             </div>
           </div>
           <div className="skill_backend">
-            <h3>Backend Development & Other</h3>
+            <h3>Backend Development</h3>
             <div className="skill_content">
               <div className="skill_item">
                 <BiMedal />

@@ -71,3 +71,12 @@
     transform: translateX(10px);
   }
 }
+
+@media screen and (max-width: 768px) {
+  .portfolio_section {
+    .portfolio_grid {
+      grid-template-columns: max-content;
+      gap: 2rem;
+    }
+  }
+}

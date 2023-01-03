@@ -34,3 +34,13 @@
     text-decoration: none;
   }
 }
+@media screen and (max-width: 768px) {
+  .contact_section {
+    .contact_list {
+      flex-direction: column;
+      gap: 20px;
+      width: 250px;
+      margin: 0 auto;
+    }
+  }
+}

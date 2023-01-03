@@ -48,3 +48,27 @@
     background-color: #d8e5cc;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .about_section {
+    .grid {
+      grid-template-columns: 1fr;
+      grid-gap: 0;
+      gap: 0;
+    }
+    .about_avatar {
+      width: 90%;
+      margin: 0 auto;
+    }
+    .about_description {
+      align-items: center;
+    }
+
+    .about_description > p {
+      padding: 0 20px;
+    }
+    .about_button {
+      margin-top: 20px;
+    }
+  }
+}
