@@ -24,7 +24,7 @@ const About = () => {
           </p>
           <div></div>
           <a className="about_button" href={resume} download>
-            Resume
+            Download CV
             <MdOutlineCloudDownload />
           </a>
         </div>
