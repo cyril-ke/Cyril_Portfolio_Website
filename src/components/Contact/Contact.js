@@ -16,7 +16,10 @@ const Contact = () => {
         <div className="contact_list">
           <div className="contact_card">
             <MdOutlineEmail className="contact_card_icon" />
-            <a className="contact_card_content" href="/#">
+            <a
+              className="contact_card_content"
+              href="mailto:cernd206@gmail.com"
+            >
               <h4>Email</h4>
               <h5>cernd206@mail.com</h5>
               <br /> Send a messages
