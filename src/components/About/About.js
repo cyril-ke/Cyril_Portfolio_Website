@@ -23,7 +23,7 @@ const About = () => {
             框架製作寵物票券的電商平台，負責網站內社群分享部分，包含社群貼文CRUD、社群留言等功能。
           </p>
           <div></div>
-          <a className="about_button" href={resume} download>
+          <a className="about_button" href={resume} download="ke_resume">
             Download CV
             <MdOutlineCloudDownload />
           </a>
