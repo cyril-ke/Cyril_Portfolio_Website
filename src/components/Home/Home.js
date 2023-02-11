@@ -14,10 +14,10 @@ const home = () => {
           <h2>I'm a newbie Front-end engineer.</h2>
         </div>
         <a className="scrollDown" href="#about">
-          <div class="chevron"></div>
-          <div class="chevron"></div>
-          <div class="chevron"></div>
-          <div class="text">
+          <div className="chevron"></div>
+          <div className="chevron"></div>
+          <div className="chevron"></div>
+          <div className="text">
             Scroll down
             <div />
           </div>

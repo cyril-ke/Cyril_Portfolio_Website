@@ -27,13 +27,19 @@
     font-size: 18px;
     padding: 4px 12px;
     font-weight: 500;
+    border-radius: 8px;
   }
   .portfolio_item:hover {
-    background-color: #454841;
+    background-color: #6b6c69;
     color: #fbfff7;
-    border-radius: 8px;
     padding: 4px 12px;
   }
+
+  .active-work {
+    background-color: #454841;
+    color: #fbfff7;
+  }
+
   .portfolio_grid {
     display: grid;
     grid-gap: 2rem;

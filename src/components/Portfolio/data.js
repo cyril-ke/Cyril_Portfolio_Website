@@ -1,6 +1,7 @@
 import portfolio1 from '../../images/SelfIntroduction.png';
 import portfolio2 from '../../images/ohdocatFinal.png';
 import portfolio3 from '../../images/ohdogcatMid.png';
+import portfolio4 from '../../images/todolist.png';
 
 export const portfolioData = [
   {
@@ -29,4 +30,20 @@ export const portfolioData = [
     codeUrl:
       'https://github.com/RainOuO/mfee27-team3-git/tree/main/ohdogcat_project',
   },
+  {
+    id: 4,
+    category: 'function',
+    title: 'TodoList',
+    image: portfolio4,
+    liveDemoUrl: 'https://cyril-ke.github.io/simple-todolist/',
+    codeUrl: 'https://github.com/cyril-ke/simple-todolist',
+  },
+];
+
+export const portfolioItem = [
+  { name: 'All' },
+  { name: 'Web' },
+  { name: 'Layout' },
+  { name: 'UI' },
+  { name: 'function' },
 ];
